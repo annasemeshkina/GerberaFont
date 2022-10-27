@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Bold" ;
+  src:url('fonts/GerberaBold.ttf');
+}
+@font-face {
+  font-family: "Medium" ;
+  src:url('font/GerberaMedium.ttf');
+}
+@font-face {
+  font-family: "Light" ;
+  src:url('fonts/GerberaLight.ttf');
+}
+@font-face {
+  font-family: "Regular" ;
+  src:url('fonts/Gerbera.ttf');
+}
+@font-face {
+  font-family: "Medium" ;
+  src:url('fonts/GerberaMedium.ttf');
+}
+@font-face {
+  font-family: "Black" ;
+  src:url('fonts/Gerbera-Black.ttf');
+}
