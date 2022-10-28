@@ -1,18 +1,13 @@
-.nachalo1 p {
-  font-size: 100px;
-  font-family: "Regular" ;
-  text-align: center;
-  position: relative;
-  top: 369px;
-  z-index: 10;
-
-
-}
 .fonts {
   width: 1440px;
   height:800px;
   position: relative;
   background-color: white;
+}
+.fonts img {
+  position: absolute;
+  z-index: 1;
+  top: -96px;
 }
 .E, .R, .B, .E2, .R2, .A {
   font-size: 580px;
@@ -62,7 +57,7 @@
   font-size: 48px;
   font-family: "Regular" ;
   position: relative;
-  top: 530px;
+  top: 636px;
   left: 159px;
   color: black;
 }
